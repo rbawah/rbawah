@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rashid Bawah
 - 👀 I’m interested in Software Engineering/Backend/Fullstack web development (Python, Java, Javascript, React)
 - 🌱 I’m currently learning Advanced Algos and Data Structures.
-- 💞️ I’m looking to collaborate on Django web development.
+- 💞️ I’m looking to collaborate on Django/Python web development.
 - 📫 How to reach me arbawah1@gmail.com
 
 <!---
